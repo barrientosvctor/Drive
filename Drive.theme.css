@@ -1,0 +1,40 @@
+/**
+* @name Drive
+* @version 1.0.1
+* @description A theme with a wallpaper from The Crew 2
+* @author Shawn
+* @invite ZHthyCw
+* @Source https://github.com/DiscordStyles/FrostedGlass
+* @website https://betterdiscord.app/theme/Frosted%20Glass
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+:root {
+--background-image: url('https://i.imgur.com/ybssPXX.jpg');
+--background-image-blur: 2px;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: url('https://i.imgur.com/ybssPXX.jpg');
+--popout-modal-blur: 100px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-image: url('https://i.imgur.com/FSh2EVa.jpg');
+--home-button-size: contain;
+--home-button-position: center;
+--serverlist-brightness: 1;
+--left-brightness: 0.85;
+--middle-brightness: 0.6;
+--right-brightness: 0.65;
+--popout-modal-brightness: 0.75;
+--gradient-primary: 37,120,183;
+--gradient-secondary: 51,66,147;
+--gradient-direction: 228deg;
+--tint-colour: 21,147,255;
+--tint-brightness: 0.1;
+--window-padding: 0px;
+--window-roundness: 10px;
+--scrollbar-colour: #FFFFFF48;
+--link-colour: #2782F4FF;
+--show-gift-gif-buttons: block;
+--font: 'Whitney';
+--update-notice-1: none;
+}
